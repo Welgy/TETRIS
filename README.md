@@ -28,7 +28,9 @@ g++ main.cpp -o tetris
 
 ## Screenshot
 
-![Tetris screenshot](screen.png) ![Tetris screenshot](screen2.png)
+![Tetris screenshot](screen.png)
+![Tetris screenshot](screen2.png)
+![Tetris screenshot](screen3.png)
 
 ## Author
 
